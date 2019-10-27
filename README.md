@@ -17,3 +17,5 @@ be shown in two ways: by markers on the line, or by open-close bars superimposed
 3. Volume Charts show the volume of trading, and often appear as studies below the main chart.
 Volume charts can be simple line charts, column charts, column charts in which the columns
 appear as lines, or line charts showing drop lines. 
+
+![Capture](https://user-images.githubusercontent.com/56234205/67635080-19d4b080-f906-11e9-9b8e-b9fce6baff14.PNG)
